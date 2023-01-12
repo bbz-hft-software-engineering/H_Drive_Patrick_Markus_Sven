@@ -10,5 +10,12 @@ Technische Informationen
    Subnetzmaske: 255.255.255.0 
    Port: 1000
    
-3. Anschliessend können Sie das Programm "debuggen". Dabei wird sich das Eingabefeld öffenen, in dieses Sie Ihre Paramter eingeben können nach dem unten aufgeführtem Muster.
-   Beispiel: 
+3. Anschliessend können Sie das Programm "debuggen". Dabei wird sich das Eingabefeld öffenen, in dieses Sie Ihre Aktion nach dem unten aufgeführten Muster wählen.
+   Taste: A -> Programm beenden 
+   Taste: W -> Drehung Rechts
+   Taste: S -> Drehung Links
+  
+  
+  
+  
+   
